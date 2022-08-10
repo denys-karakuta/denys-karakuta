@@ -30,7 +30,7 @@ Front-end Engineer
 
 ### Socials
 
-<p align="left"><a href="https://www.linkedin.com/in/denys-karakuta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a>
+<p align="left"><a href="https://www.linkedin.com/in/denys-karakuta" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" height="36" /></a> 
 <a href="https://t.me/denys_karakuta" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="36" height="36" /></a></p>
 
 <p align="center"><img src="https://c.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" width=100% /></p>
