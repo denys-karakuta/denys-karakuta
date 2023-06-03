@@ -1,6 +1,6 @@
 Hi 👋 My name's Denys
 ==================
-Front-end Engineer
+Software Engineer
 ------------------
 
 * ✉️  You can contact me at [denys.karakuta@gmail.com](mailto:denys.karakuta@gmail.com)
