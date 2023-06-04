@@ -1,7 +1,4 @@
-Hi 👋 My name's Denys
-==================
-Software Engineer
-------------------
+# Hi 👋
 
 * ✉️  You can contact me at [denys.karakuta@gmail.com](mailto:denys.karakuta@gmail.com)
 * 🤝  I'm open to collaborating on <a href="https://t.me/denys_karakuta" target="_blank" rel="noreferrer">Telegram</a>
