@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGhtYm9nbHBlaTY4cTljbnljOXh4eWIydmtjNXNqeGU0MXY3YjY5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Gqr8yNueTi1zn4Zff0/giphy.gif" />
-</div>
+</p>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/denys-karakuta" target="_blank">
@@ -9,9 +9,9 @@
     <img alt="Patreon" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fdenys-karakuta&logo=leetcode&logoColor=yellow" height="30" alt="leetcode logo"></a>
   <a href="https://t.me/denys_karakuta" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"></a>
-</p>  
+</p>
 
-###
+<img width="0" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -66,5 +66,7 @@
 ###
 
 <div align="center">
+  <img width="0" />
+  <img width="0" />
   <img width=100% src="https://media2.giphy.com/media/11UhXwm8Ipd9C/giphy.gif?cid=ecf05e47vgmay93rsaqqc94ooo0ohw96dpka5nmsvnh1us7t&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
