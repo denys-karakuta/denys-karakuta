@@ -67,5 +67,5 @@
 <div align="center">
   <img width="0" />
   <img width="0" />
-  <img width=100% src="https://media2.giphy.com/media/11UhXwm8Ipd9C/giphy.gif?cid=ecf05e47vgmay93rsaqqc94ooo0ohw96dpka5nmsvnh1us7t&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <!-- <img width=100% src="https://media2.giphy.com/media/11UhXwm8Ipd9C/giphy.gif?cid=ecf05e47vgmay93rsaqqc94ooo0ohw96dpka5nmsvnh1us7t&ep=v1_gifs_related&rid=giphy.gif&ct=g"  /> -->
 </div>
