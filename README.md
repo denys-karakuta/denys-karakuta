@@ -21,8 +21,12 @@
   <code>redux</code>
   <code>mobx</code>
   <code>bootstrap</code>
+  <code>antd</code>
+  <code>mui</code>
   <code>tailwindcss</code>
-  <code>figma</code>
+  <code>redux-form</code>
+  <code>react-hook-form</code>
+  <code>formik</code>
 </div>
 
 ###
@@ -46,6 +50,7 @@
   <code>graphql</code>
   <code>eslint</code>
   <code>jest</code>
+  <code>zod</code>
 </div>
 
 ###
