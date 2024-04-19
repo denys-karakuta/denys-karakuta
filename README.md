@@ -24,7 +24,7 @@
   <code>antd</code>
   <code>mui</code>
   <code>radix-ui</code>
-  <code>tailwindcss</code>
+  <code>tailwindcss</code> <br />
   <code>redux-form</code>
   <code>react-hook-form</code>
   <code>formik</code>
