@@ -23,6 +23,7 @@
   <code>bootstrap</code>
   <code>antd</code>
   <code>mui</code>
+  <code>radix-ui</code>
   <code>tailwindcss</code>
   <code>redux-form</code>
   <code>react-hook-form</code>
