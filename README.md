@@ -37,9 +37,11 @@
   <code>express</code>
   <code>sql</code>
   <code>mysql</code>
+  <code>mssql</code>
   <code>postgresql</code>
   <code>mongodb</code>
   <code>mongoose</code>
+  <code>prisma</code>
 </div>
 
 ###
