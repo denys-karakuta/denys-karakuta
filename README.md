@@ -24,6 +24,7 @@
   <code>antd</code>
   <code>mui</code>
   <code>radix-ui</code>
+  <code>chakra-ui</code>
   <code>tailwindcss</code> <br />
   <code>redux-form</code>
   <code>react-hook-form</code>
@@ -51,9 +52,11 @@
   <code>gitlab</code>
   <code>github</code>
   <code>graphql</code>
+  <code>axios</code>
   <code>eslint</code>
   <code>jest</code>
   <code>zod</code>
+  <code>yup</code>
 </div>
 
 ###
