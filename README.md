@@ -19,6 +19,7 @@
   <code>react</code>
   <code>next</code>
   <code>redux</code>
+  <code>redux-toolkit</code>
   <code>mobx</code>
   <code>bootstrap</code>
   <code>antd</code>
@@ -48,12 +49,23 @@
 ###
 
 <div align="center">
+  <code>docker</code>
+  <code>docker-compose</code>
+  <code>kubernetes</code>
+  <code>helm</code>
+</div>
+
+###
+
+<div align="center">
   <code>git</code>
   <code>gitlab</code>
   <code>github</code>
   <code>graphql</code>
   <code>axios</code>
   <code>eslint</code>
+  <code>websockets</code>
+  <code>SSE</code>
   <code>jest</code>
   <code>zod</code>
   <code>yup</code>
