@@ -20,7 +20,7 @@
   <code>next</code>
   <code>redux</code>
   <code>redux-toolkit</code>
-  <code>mobx</code>
+  <code>mobx</code> <br />
   <code>bootstrap</code>
   <code>antd</code>
   <code>mui</code>
