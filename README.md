@@ -53,6 +53,7 @@
   <code>docker-compose</code>
   <code>kubernetes</code>
   <code>helm</code>
+  <code>minikube</code>
 </div>
 
 ###
