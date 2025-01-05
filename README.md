@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-<!--   <img height="128" src="https://github.com/user-attachments/assets/55c5f6d0-a92b-4ccc-b47d-0a099f356857" /> -->
-  <img height="128" src="https://github.com/user-attachments/assets/9fa788c5-aade-4ff9-aa27-c668e0d98a67" />
+  <img height="128" src="https://github.com/user-attachments/assets/55c5f6d0-a92b-4ccc-b47d-0a099f356857" />
+<!--   <img height="128" src="https://github.com/user-attachments/assets/9fa788c5-aade-4ff9-aa27-c668e0d98a67" /> -->
 </p>
 
 <p align="center">
@@ -78,7 +78,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="0" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  /> -->
+<!--   <img width="0" /> -->
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  /> -->
 </div>
